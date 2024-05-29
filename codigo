@@ -7,8 +7,8 @@ int main() {
     }
   }
   if (b == a) {
-    printf ("\nEl nombre %d és perfecte", b);
+    printf ("\nEl nombre %d és perfecte", a);
   } else {
-    printf ("\nEl nombre %d no és perfecte", b);
+    printf ("\nEl nombre %d no és perfecte", a);
   }
 }
